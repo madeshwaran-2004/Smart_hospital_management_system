@@ -6,3 +6,4 @@ python-dotenv==1.0.0
 Flask-Login==0.6.2
 Flask-WTF==1.1.1
 email-validator==2.0.0
+sqlite3-api==2.0.1
